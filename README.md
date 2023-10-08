@@ -18,11 +18,11 @@
      npx degit ssbeater/gridman-vite-react-template#main my-app
      ```
 2. Update your project meta-information:
-   -  Update the [`package.json`]:
+   -  Update the `package.json`:
    - Update `name`, `author` and `license` properties
    - Remove the `private` for publish as npm package
-   - Change the title in [`index.html`]
-   - Replace the favicon in the [`public`] directory
+   - Change the title in `index.html`
+   - Replace the favicon in the `public` directory
 3. Runnig app:
    - `cd my-app`: Move to your project root directory
    - `npm install`: Install all the project dependencies
